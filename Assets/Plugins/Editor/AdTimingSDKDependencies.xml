@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies><unityversion>4.3.2</unityversion><androidPackages><androidPackage spec="com.adtiming:mediation-sdk:6.6.0@aar"><repositories><repository>https://dl.adtiming.com/android-sdk/</repository></repositories></androidPackage></androidPackages><iosPods><iosPod name="AdTimingSDK" version="4.3.2"><sources><source>https://github.com/CocoaPods/Specs</source></sources></iosPod></iosPods></dependencies>

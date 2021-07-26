@@ -1,0 +1,24 @@
+id,Español,Inglés
+Play,Jugar,Play
+Shop,Tienda,Shop
+Restart,Reiniciar,Restart
+Menu,Menú,Menu
+Continue,¿Continuar?,Continue?
+GameOver,Juego Terminado,Game Over
+Backgrounds,Fondos,Backgrounds
+ColorPalettes,Paletas de Colores,Color Palettes
+BreakBricks,Rompe los ladrillos con el mismo color de la barra y evita los demás,Break the bricks with the same color of the bar and avoid the others
+AmountBricks,Cantidad de ladrillos que quedan por romper antes de que la barra cambie de color,Amount of bricks left to break before the bar changes color
+Development,Desarrollo y Diseño,Development And Design
+Company,Cursed Pinky Dreams,Cursed Pinky Dreams
+Sound,Efectos de Sonido,Sound Effects
+Music,Música generada con IA,AI generated music
+moreGames,Más Juegos,More Games
+tutorial 1-1,Captura bloques del mismo color de la barra,Catch Blocks of the same color of the bar
+tutorial 1-2,Número de bloques antes de cambiar el color,Number of blocks before change bar color
+tutorial 2-1,Atrapar bloques de otros colores aumenta la altura a la que está la barra,catching blocks of other colors increases the height at which the bar is
+tutorial 2-2,Si alcanzas cierta altura perderás,If you reach certain height you will lost
+rate1,¿Estás disfrutando el juego?,Are you enjoying the game?
+rate2,Califícalo en la Play Store :),Rate it on the Play Store :)
+Yes,Si,Yes
+No,No,No
